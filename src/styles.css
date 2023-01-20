@@ -1,0 +1,16 @@
+body {
+  font-family: "Pacifico", cursive;
+}
+
+.WeatherAppWrapper {
+  margin: 30px auto;
+  width: 650px;
+}
+
+.WeatherApp {
+  display: block;
+  background: linear-gradient(#81b29a, #f4f1de);
+  border-radius: 20px;
+  box-shadow: 3px 3px 6px #e07a5f;
+  height: 475px;
+}

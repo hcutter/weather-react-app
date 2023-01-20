@@ -1,0 +1,67 @@
+.WeatherContainer {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  max-width: 600px;
+  padding: 5px;
+}
+
+.Temperature {
+  display: inline;
+}
+
+h1 {
+  color: #e07a5f;
+  font-size: 45px;
+  text-align: center;
+}
+
+a {
+  color: #f2cc8f;
+  font-size: 18px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.active {
+  color: #e07a5f;
+}
+
+a:hover {
+  color: #e07a5f;
+  text-decoration: none;
+  cursor: default;
+}
+
+.EmojiWeather {
+  font-size: 40px;
+  text-align: center;
+}
+
+.ConditionWeather {
+  color: #3d405b;
+  font-size: 18px;
+  text-align: center;
+  position: relative;
+  left: -19px;
+}
+
+h2 {
+  color: #f2cc8f;
+  font-size: 36px;
+  text-align: left;
+  position: relative;
+  left: 50px;
+}
+
+.DayTime {
+  color: #3d405b;
+  position: relative;
+  left: 20px;
+  text-align: left;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+}

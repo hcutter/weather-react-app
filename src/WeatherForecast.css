@@ -1,0 +1,28 @@
+.WeatherForecast {
+  position: relative;
+  top: 10px;
+  text-align: center;
+  margin: 0px 0px;
+  padding: 5px;
+  box-shadow: #e07a5f 3px 3px 6px;
+  max-width: 600px;
+  border: none;
+  border-radius: 15px;
+  font-size: 18px;
+}
+
+.weather-forecast-date {
+  color: #3d405b;
+}
+
+.weather-forecast-temperatures {
+  color: #3d405b;
+}
+
+.weather-forecast-temperature-max {
+  color: #e07a5f;
+}
+
+.weather-forecast-temperature-min {
+  color: #81b29a;
+}
