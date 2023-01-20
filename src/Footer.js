@@ -5,7 +5,7 @@ export default function () {
   return (
     <footer>
       <a
-        href="https://github.com/hcutter/awesome-weather-app/tree/main/src"
+        href="https://github.com/hcutter/weather-react-app"
         target="_blank"
         className="Code"
       >
